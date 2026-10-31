@@ -1,0 +1,1 @@
+I'm ZentroMart's AI support assistant. I can help with your order, but I need the 8-digit order ID first. Then I'll ask for either the registered phone's last four digits or the delivery pincode. General policy questions don't require verification.

@@ -1,0 +1,64 @@
+# .env
+# .venv/
+# venv/
+# __pycache__/
+# .pytest_cache/
+# instance/
+# Capstone_Project_Dataset_FTTT_2026/tools/tickets_created.csv
+# *.py[cod]
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# Dataset - DO NOT UPLOAD
+Capstone_Project_Dataset_FTTT_2026/
+
+# Runtime-generated ticket records
+Capstone_Project_Dataset_FTTT_2026/tools/tickets_created.csv
+
+# Local audio files
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# Generated output
+outputs/
+temp/
+tmp/
+
+# Local instance data
+instance/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

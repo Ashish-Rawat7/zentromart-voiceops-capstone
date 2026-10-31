@@ -1,0 +1,20 @@
+{
+  "audio_file": "customer_04.wav",
+  "language_code": "en-IN",
+  "processed_at_utc": "2026-10-30T08:00:43.153874+00:00",
+  "status": "success",
+  "transcript": "i received the wrong item",
+  "reply": "Report the damaged, defective, wrong or missing item within 48 hours of delivery and include photos of the item and packaging. After verification, the policy allows a free replacement or full refund including delivery fees; no reverse-pickup fee applies.",
+  "sources": [
+    "DWM-1",
+    "DWM-2"
+  ],
+  "decision": "answer",
+  "verification_required": false,
+  "ticket_created": false,
+  "ticket_id": null,
+  "audio_error": null,
+  "response_audio_file": "customer_04_wav_reply.wav",
+  "error": null,
+  "http_status": 200
+}

@@ -1,0 +1,17 @@
+{
+  "audio_file": "customer_01.wav",
+  "language_code": "en-IN",
+  "processed_at_utc": "2026-10-30T07:59:39.313489+00:00",
+  "status": "success",
+  "transcript": "where is my order",
+  "reply": "I'm ZentroMart's AI support assistant. I can help with your order, but I need the 8-digit order ID first. Then I'll ask for either the registered phone's last four digits or the delivery pincode. General policy questions don't require verification.",
+  "sources": [],
+  "decision": "clarify",
+  "verification_required": true,
+  "ticket_created": false,
+  "ticket_id": null,
+  "audio_error": null,
+  "response_audio_file": "customer_01_wav_reply.wav",
+  "error": null,
+  "http_status": 200
+}

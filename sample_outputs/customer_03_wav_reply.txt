@@ -1,0 +1,1 @@
+Refund timing depends on the payment method and whether the refund has been initiated. Which payment method did you use, and has the refund already been initiated?

@@ -1,0 +1,19 @@
+{
+  "audio_file": "customer_03.wav",
+  "language_code": "en-IN",
+  "processed_at_utc": "2026-10-30T08:00:23.189748+00:00",
+  "status": "success",
+  "transcript": "what is your refund policy",
+  "reply": "Refund timing depends on the payment method and whether the refund has been initiated. Which payment method did you use, and has the refund already been initiated?",
+  "sources": [
+    "REF-2"
+  ],
+  "decision": "clarify",
+  "verification_required": false,
+  "ticket_created": false,
+  "ticket_id": null,
+  "audio_error": null,
+  "response_audio_file": "customer_03_wav_reply.wav",
+  "error": null,
+  "http_status": 200
+}
